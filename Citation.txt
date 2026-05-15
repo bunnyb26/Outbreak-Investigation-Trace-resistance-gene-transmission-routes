@@ -1,0 +1,2 @@
+uttkarsh verma. (2026). AMR-Plasmid-Analysis-Tool: Integrated Analysis of Antimicrobial 
+Resistance Genes and Plasmids. GitHub. https://github.com/bunnyb26/AMR-Plasmid-Analysis-Tool
