@@ -1,0 +1,21 @@
+# Create new directory
+mkdir AMR-Plasmid-Analysis-Tool
+cd AMR-Plasmid-Analysis-Tool
+
+# Initialize git
+git init
+
+# Create all files above
+# (copy the content from this response)
+
+# Add files
+git add .
+
+# Commit
+git commit -m "Initial commit: AMR & Plasmid Analysis Tool v1.0.0"
+
+# Add remote (replace with your repo URL)
+git remote add origin https://github.com/YOUR_USERNAME/AMR-Plasmid-Analysis-Tool.git
+
+# Push
+git push -u origin main
